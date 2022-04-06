@@ -6,12 +6,15 @@ SDK core proposals
 - [ ] Request payment
 - [ ] Request transfer
 - [ ] Withdrawal (payout)
+- [ ] Request instant payout (xpress cash token, bank, mobile money)
 - [ ] Request for transaction fees
 - [ ] Request for transaction status
 - [ ] Webhook handler (add, update, remove, retry callback, verify webhook signature)
 - [ ] Request payment link
 - [ ] Request for receipt
 - [ ] Request for the last 10 transactions (success, pending, failed)
+- [ ] Request for business information
+- [ ] Setup payout information
 
 ## Achitecture
 
