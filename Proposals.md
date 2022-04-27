@@ -15,7 +15,7 @@ SDK core proposals
 - [ ] Request for the last 10 transactions (success, pending, failed)
 - [ ] Request for business information
 - [ ] Setup payout information
-
+- [ ] Support multi currency
 ## Achitecture
 
 ### High level description
